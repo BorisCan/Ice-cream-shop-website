@@ -1341,8 +1341,6 @@ label{
 @media (max-width: 350px){
       .box{
         max-width: 250px;
-        margin: 0 auto;
-        padding: 0;
       }
 
       .mail__btn{
